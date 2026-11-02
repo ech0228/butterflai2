@@ -1,0 +1,13 @@
+written to submissions/weeks/week_04/scoreboard1_report_unset.json
+
+   student            : allisonc
+   variant            : width-amplitude  (ablation)
+   question           : Amplitude-dependent belt width: is the belt wider in stronger cycles?
+   spec               : width=amplitude
+   fitted parameters  : 25
+   held-out NLL       : -26.1096 nats per hemicycle-year (spread 18.23)
+   paired vs baseline : +0.6905 +/- 0.2959, median +0.2841, better in 15 of 18
+   KS median          : 0.0454, not rejected at 5% in 8 of 18
+   count error        : 10.4% on cycle 19
+   held-out unit gave : clock alignment s, amplitude from area record map
+   fingerprint        : 5e55384fbc54
